@@ -1,2 +1,2 @@
-# ciw
-CIW Class
+# Wine Quality Project 
+Red Wine
